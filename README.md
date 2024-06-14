@@ -1,2 +1,2 @@
-# cvr_calibration
+# cvr calibration
 Based on online user behavior records, cvr calibration is performed through isotonic regression algorithm
